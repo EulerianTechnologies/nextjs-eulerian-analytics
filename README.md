@@ -108,13 +108,13 @@ A real life example will include more customizations for basket and order pages 
 ```javascript
 import { useState } from 'react'
 
-import * as ea from '../lib/ea'
+import * as etag from '../lib/etag'
 
 export default function Home() {
   const [query, setQuery] = useState("");
 
   const search = () => {
-    ea.event("search")
+    etag.event("search")
   }
 
   return (
