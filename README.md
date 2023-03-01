@@ -1,4 +1,3 @@
-# ![Eulerian logo](/img/eulerian_logo.png) 
 # Install Eulerian on your Next.js application
 This tutorial will be covering how to add Eulerian Analytics to your Next.js application. 
 The implementation is straightforward and doesn't require any third-party library.
